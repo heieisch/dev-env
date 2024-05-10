@@ -1,18 +1,31 @@
-age
-btop
-bat
-dbus-x11
-direnv
-eza
-fzf
-neovim
-ripgrep
-speedtest-cli
-wl-clipboard
-zsh
-git
-zip
-unzip
-p7zip
-fd-find
-zoxide
+  zsh
+  kitty
+  fuse-sshfs
+  neovim
+  fd-find
+  fzf
+  ripgrep
+  git
+  curl
+  python3
+  python3-pip
+  npm
+  nodejs
+  biber
+  latexmk
+  eza
+  zoxide
+  bat
+  ranger
+  thefuck
+  tldr
+  jq
+  cloc
+  duf
+  dua-cli
+  entr just
+  direnv
+  zip
+  xz
+  unzip
+  p7zip
